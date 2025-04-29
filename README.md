@@ -1,3 +1,3 @@
-- 👋 Hi, I’m UzairIrfan1Jamali
+- 👋 Hi, I’m Uzair Irfan Jamali
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Modern Web Development at SMIT.
